@@ -1,0 +1,40 @@
+
+  "project_info": {
+    "project_number": "508444367492",
+    "project_id": "filter-express-655d4",
+    "storage_bucket": "filter-express-655d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508444367492:android:82027da3e7e234ba1000d1",
+        "android_client_info": {
+          "package_name": "com.rishi.video_compress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508444367492-ivismt36utlg17jr5523srrscr3uiv7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxfAGCrdoXHXjI2Q-LxqIMmlk0Ig87aH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508444367492-ivismt36utlg17jr5523srrscr3uiv7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2290915492218564~6473251309"
+    }
+  ],
+  "configuration_version": "1"
+}
